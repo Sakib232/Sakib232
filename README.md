@@ -7,7 +7,7 @@
         <h2>Computer Science & Engineering Graduate | Web Development | AI Enthusiast</h2>
       </td>
       <td width="40%">
-        <img src="" width="329" height="200" style="border-radius: 50%; border: 4px solid #38bdf8;">
+        <img src="Ai_enthusiastic.jpg" width="329" height="200" style="border-radius: 50%; border: 4px solid #38bdf8;">
       </td>
     </tr>
   </table>
