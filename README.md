@@ -18,7 +18,7 @@
 
 ## About Me
 
-I am a Computer Science and Engineering undergraduate at Bangladesh Army International University of Science and Technology (BAIUST). My interests focus on artificial intelligence, computer vision, and full-stack web development. I have experience developing intelligent systems using deep learning and building scalable web applications.
+I am a Computer Science and Engineering graduate at Bangladesh Army International University of Science and Technology (BAIUST). My interests focus on artificial intelligence, computer vision, and full-stack web development. I have experience developing intelligent systems using deep learning and building scalable web applications.
 
 - Currently working on AI-based computer vision systems and web applications
 - Interested in machine learning, deep learning, and intelligent automation
