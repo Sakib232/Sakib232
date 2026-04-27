@@ -4,7 +4,7 @@
     <tr>
       <td width="60%">
         <h1>Hi, I'm Sakib Ahamed Rabbi</h1>
-        <h2>Computer Science & Engineering Undergraduate | AI & Web Development Enthusiast</h2>
+        <h2>Computer Science & Engineering Graduate | Web Development | AI Enthusiast</h2>
       </td>
       <td width="40%">
         <img src="" width="329" height="200" style="border-radius: 50%; border: 4px solid #38bdf8;">
@@ -79,7 +79,7 @@ I am a Computer Science and Engineering undergraduate at Bangladesh Army Interna
 
 ## Activity Overview
 
-- Projects completed: 3+
+- Projects completed: 5+
 - Technologies mastered: 10+
 - Years of coding experience: 3+
 
@@ -122,7 +122,7 @@ I am a Computer Science and Engineering undergraduate at Bangladesh Army Interna
   <a href="mailto:sakibahamed33@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="tel:+8801325963350" target="_blank">
+  <a href="tel:01325963350" target="_blank">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
@@ -131,6 +131,6 @@ I am a Computer Science and Engineering undergraduate at Bangladesh Army Interna
 
 ## Resume
 
-[![View Resume | CV](https://img.shields.io/badge/Resume|CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)]()
+[![View Resume | CV](https://img.shields.io/badge/Resume|CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1ZA8n1zn9Uu-rfxb4Ek3NauSCoQRAmbiu)
 
 ---
